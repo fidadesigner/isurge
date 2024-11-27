@@ -11,7 +11,7 @@ function InfoSecAndComplianceAutomation() {
                     <Row>
                         <Col xs={12} sm={6} md={12} className="text-center">
                             <h1>End-to-end InfoSec and Compliance <br />Automation Platform</h1>
-                            <p>Isurge will scale with your organization as your needs evolve. Today your focus may be on a SOC 2 certification, but as you scale, <br />Isurge will support your growth by proactively implementing risk mitigation strategies and adapting quickly to industry requirements.</p>
+                            <p>iSURGE will scale with your organization as your needs evolve. Today your focus may be on a SOC 2 certification, but as you scale, <br />iSURGE will support your growth by proactively implementing risk mitigation strategies and adapting quickly to industry requirements.</p>
                         </Col>
                     </Row>
                     <Row className="mt-4 gy-4 align-items-stretch">

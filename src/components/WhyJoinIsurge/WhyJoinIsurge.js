@@ -17,7 +17,7 @@ function WhyJoinIsurge() {
                 <Container>
                     <Row>
                         <Col xs={12} sm={12} md={12} className="text-center">
-                            <h1>Why Join the Isurge Connect Partner Network</h1>
+                            <h1>Why Join the iSURGE Connect Partner Network</h1>
                             <p>Forging partnerships based on trust and transparency is at the core of how we operate at Compyl. We believe that true collaboration means aligning our efforts to make our joint customers successful. By working together with integrity and a shared commitment to excellence, we build lasting relationships that not only drive business growth but also ensure that our customers thrive. Together, we can deliver exceptional value, build mutual trust, and create a foundation for long-term success.</p>
                         </Col>
                     </Row>

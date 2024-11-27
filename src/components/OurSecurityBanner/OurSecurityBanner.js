@@ -8,8 +8,8 @@ function OurSecurityBanner() {
             <Container>
                 <Row>
                     <Col xs={12} sm={12} md={12} className="text-center">
-                        <h1>Security at Isurge</h1>
-                        <p>Scale your organization securely with Isurge, the trusted solution for continuous information 
+                        <h1>Security at iSURGE</h1>
+                        <p>Scale your organization securely with iSURGE, the trusted solution for continuous information 
                         <br />security and compliance monitoring.</p>
                     </Col>
                 </Row>

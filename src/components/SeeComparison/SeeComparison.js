@@ -10,8 +10,8 @@ function SeeComparison() {
                 <Container>
                     <Row>
                         <Col xs={12} sm={12} md={12} className="text-center">
-                            <h1>Compare Isurge to other GRC Platforms!</h1>
-                            <p>See why Isurge wins every time!</p>
+                            <h1>Compare iSURGE to other GRC Platforms!</h1>
+                            <p>See why iSURGE wins every time!</p>
                         </Col>
                     </Row>
                     <Row className="mt-4">

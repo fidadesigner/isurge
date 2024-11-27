@@ -11,7 +11,7 @@ function RequestDemo() {
                     <Row>
                         <Col xs={12} sm={12} md={12} className="text-center">
                             <h1>Rapidly mature your security program 
-                            with Isurge</h1>
+                            with iSURGE</h1>
                             <p>Enable automated continuous security and compliance for your business</p>
                         </Col>
                     </Row>

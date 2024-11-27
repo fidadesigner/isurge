@@ -1,9 +1,9 @@
 import React, {useState} from "react";
 import { Container, Row, Col, Button, Modal, Card, ListGroup } from 'react-bootstrap';
 import DemoForm from "../../common_components/DemoForm/DemoForm";
-import './Isurge_v_Ciso.css';
+import './IsurgeVCiso.css';
 
-function IsurgevCiso() {
+function IsurgeVCiso() {
 
     const [show, setShow] = useState(false);
 
@@ -16,7 +16,7 @@ function IsurgevCiso() {
                 <Container>
                     <Row className="align-items-center">
                         <Col xs={12} sm={12} md={6} className="custom-center">
-                            <h1>Isurge vCISO Breakdown</h1>
+                            <h1>iSURGE vCISO Breakdown</h1>
                             <p>Our premier offering includes the Compyl Virtual CISO managed service. With access to our CISO suite, we will be the architects for the entire information security program by developing, managing, and implementing the organization’s complete security posture.</p>
                             <p>Finding a qualified CISO has proven challenging for many organizations due to a lack of available talent. With the average CISO salary costing well over $200,000/yr,organizations have found our vCISO value to rapidly mature and maintain a comprehensive security program tailored for their unique needs.</p>
                             <p>On average customers save over400 hours,see a return in investment in6 weeksin comparison to traditional consultancy.</p>
@@ -55,4 +55,4 @@ function IsurgevCiso() {
     );
 }
 
-export default IsurgevCiso;
+export default IsurgeVCiso;

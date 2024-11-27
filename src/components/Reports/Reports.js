@@ -12,7 +12,7 @@ function Reports() {
                 <Container>
                     <Row>
                         <Col xs={12} sm={12} md={12} className="text-center">
-                            <h1>G2 Fall 2024 Reports are out, and our <br />users love Isurge!</h1>
+                            <h1>G2 Fall 2024 Reports are out, and our <br />users love iSURGE!</h1>
                         </Col>
                         <Col xs={12} sm={12} md={12} className="mt-4 d-flex align-items-center justify-content-around">
                             <img src={`${assetPath}images/report-img1.png`} alt="Logo" className="img-fluid report-img" />

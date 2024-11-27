@@ -2,7 +2,7 @@ import React from "react";
 import ProductBanner from "../components/ProductBanner/ProductBanner";
 import CompareProducts from "../components/CompareProducts/CompareProducts";
 import ImportantNote from "../components/ImportantNote/ImportantNote";
-import IsurgevCiso from "../components/Isurge_v_Ciso/Isurge_v_Ciso";
+import IsurgeVCiso from "../components/IsurgeVCiso/IsurgeVCiso";
 import SeeComparison from "../components/SeeComparison/SeeComparison";
 
 function Product() {
@@ -21,7 +21,7 @@ function Product() {
             </div>
             <CompareProducts />
             <ImportantNote />
-            <IsurgevCiso />
+            <IsurgeVCiso />
             <SeeComparison />
         </>
     );

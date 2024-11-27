@@ -25,7 +25,7 @@ function TrustedPartner() {
                                 <Card.Body className="custom-center">
                                     <Card.Title>Data Security</Card.Title>
                                     <Card.Text>
-                                        Isurge monitors our customer environments and stores all data in secure databases with encryption passwords 
+                                        iSURGE monitors our customer environments and stores all data in secure databases with encryption passwords 
                                         protecting all assets. We use tools like Azure Key Vault, Microsoft Identity, Microsoft Authorization, and Secure 
                                         Private endpoints. All uploaded files to Compyl are encrypted and stored in Microsoft Blob Storage.
                                     </Card.Text>
@@ -40,7 +40,7 @@ function TrustedPartner() {
                                 <Card.Body className="custom-center">
                                     <Card.Title>Application Security</Card.Title>
                                     <Card.Text>
-                                        Isurge has partnerships with many of the leading third-party penetration services worldwide. We constantly 
+                                        iSURGE has partnerships with many of the leading third-party penetration services worldwide. We constantly 
                                         evaluate the source code, running applications, and the deployed environments of our customers. To further 
                                         protect customer environments, we store all API keys in Microsoft Key Vault and test Compyl against unit and 
                                         automation testing to allow for a safe and friendly user experience. For further analysis, all internal customer 
@@ -57,7 +57,7 @@ function TrustedPartner() {
                                 <Card.Body className="custom-center">
                                     <Card.Title>Infrastructure Security</Card.Title>
                                     <Card.Text>
-                                        Isurge uses Azure Web Apps to host our customer environments. We leverage all security products embedded 
+                                        iSURGE uses Azure Web Apps to host our customer environments. We leverage all security products embedded 
                                         within the Azure eco-system, including Key Vault, Blob Storage, Log Analytics, Virtual Networks, and Private 
                                         Endpoints. The Compyl application is powered by a REST API utilizing a microservices architecture. Every call to 
                                         and from our customer environment is secured using HTTPS protocols.

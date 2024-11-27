@@ -18,7 +18,7 @@ function UnparalleledFunctionality() {
                         <Col xs={12} sm={12} md={6}>
                             <h1>Unparalleled Functionality</h1>
                             <p>By interconnecting data from multiple areas across an organization, Comypl will identify gaps in your security program and discover granular details that otherwise would be very difficult to uncover.</p>
-                            <p>Discover the power of Isurge and how the centralized platform will rapidly mature your security program. </p>
+                            <p>Discover the power of iSURGE and how the centralized platform will rapidly mature your security program. </p>
                             <Button variant="primary" className="mt-4" >Learn More</Button>
                         </Col>
                         <Col xs={12} sm={12} md={6}>

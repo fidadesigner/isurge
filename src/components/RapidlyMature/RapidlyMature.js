@@ -10,7 +10,7 @@ function RapidlyMature() {
                 <Container>
                     <Row>
                         <Col xs={12} sm={12} md={12} className="text-center">
-                            <h1>Rapidly mature your security program <br />with Isurge</h1>
+                            <h1>Rapidly mature your security program <br />with iSURGE</h1>
                             <p>Enable automated continuous security and compliance for your business</p>
                         </Col>
                     </Row>

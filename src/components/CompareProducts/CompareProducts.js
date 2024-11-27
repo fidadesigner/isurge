@@ -29,7 +29,7 @@ function CompareProducts() {
                                     <ListGroup.Item className="bg-transparent text-primary border-0"><strong>WHAT IS INCLUDED?</strong></ListGroup.Item>
                                     <ListGroup.Item className="bg-transparent"><i class="text-primary ri-checkbox-circle-fill me-2"></i>1 Frameworks (SOC 2 or ISO 27001)</ListGroup.Item>
                                     <ListGroup.Item className="bg-transparent"><i class="text-primary ri-checkbox-circle-fill me-2"></i>Shared Customer Service Associated</ListGroup.Item>
-                                    <ListGroup.Item className="bg-transparent"><i class="text-primary ri-checkbox-circle-fill me-2"></i>User training on Isurge</ListGroup.Item>
+                                    <ListGroup.Item className="bg-transparent"><i class="text-primary ri-checkbox-circle-fill me-2"></i>User training on iSURGE</ListGroup.Item>
                                     <ListGroup.Item className="bg-transparent"><i class="text-primary ri-checkbox-circle-fill me-2"></i>Readiness Assessment</ListGroup.Item>
                                     <ListGroup.Item className="bg-transparent"><i class="text-primary ri-checkbox-circle-fill me-2"></i>Automated Control Monitoring</ListGroup.Item>
                                     <ListGroup.Item className="bg-transparent"><i class="text-primary ri-checkbox-circle-fill me-2"></i>Information Security Mgmt System</ListGroup.Item>
@@ -54,7 +54,7 @@ function CompareProducts() {
                                     <ListGroup.Item className="bg-transparent text-primary border-0"><strong>WHAT IS INCLUDED?</strong></ListGroup.Item>
                                     <ListGroup.Item className="bg-transparent"><i class="text-primary ri-checkbox-circle-fill me-2"></i>1 Frameworks (SOC 2 or ISO 27001)</ListGroup.Item>
                                     <ListGroup.Item className="bg-transparent"><i class="text-primary ri-checkbox-circle-fill me-2"></i>Shared Customer Service Associated</ListGroup.Item>
-                                    <ListGroup.Item className="bg-transparent"><i class="text-primary ri-checkbox-circle-fill me-2"></i>User training on Isurge</ListGroup.Item>
+                                    <ListGroup.Item className="bg-transparent"><i class="text-primary ri-checkbox-circle-fill me-2"></i>User training on iSURGE</ListGroup.Item>
                                     <ListGroup.Item className="bg-transparent"><i class="text-primary ri-checkbox-circle-fill me-2"></i>Readiness Assessment</ListGroup.Item>
                                     <ListGroup.Item className="bg-transparent"><i class="text-primary ri-checkbox-circle-fill me-2"></i>Automated Control Monitoring</ListGroup.Item>
                                     <ListGroup.Item className="bg-transparent"><i class="text-primary ri-checkbox-circle-fill me-2"></i>Information Security Mgmt System</ListGroup.Item>
@@ -79,7 +79,7 @@ function CompareProducts() {
                                     <ListGroup.Item className="bg-transparent text-primary border-0"><strong>WHAT IS INCLUDED?</strong></ListGroup.Item>
                                     <ListGroup.Item className="bg-transparent"><i class="text-primary ri-checkbox-circle-fill me-2"></i>1 Frameworks (SOC 2 or ISO 27001)</ListGroup.Item>
                                     <ListGroup.Item className="bg-transparent"><i class="text-primary ri-checkbox-circle-fill me-2"></i>Shared Customer Service Associated</ListGroup.Item>
-                                    <ListGroup.Item className="bg-transparent"><i class="text-primary ri-checkbox-circle-fill me-2"></i>User training on Isurge</ListGroup.Item>
+                                    <ListGroup.Item className="bg-transparent"><i class="text-primary ri-checkbox-circle-fill me-2"></i>User training on iSURGE</ListGroup.Item>
                                     <ListGroup.Item className="bg-transparent"><i class="text-primary ri-checkbox-circle-fill me-2"></i>Readiness Assessment</ListGroup.Item>
                                     <ListGroup.Item className="bg-transparent"><i class="text-primary ri-checkbox-circle-fill me-2"></i>Automated Control Monitoring</ListGroup.Item>
                                     <ListGroup.Item className="bg-transparent"><i class="text-primary ri-checkbox-circle-fill me-2"></i>Information Security Mgmt System</ListGroup.Item>

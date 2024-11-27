@@ -13,7 +13,7 @@ function ContactForm() {
                         <Card className="py-4 px-md-3 px-1 form-card">
                             <Card.Body className="text-center">
                                 <h1>Contact Us</h1>
-                                <p>Isurge, the trusted solution for continuous information security and compliance monitoring.</p>
+                                <p>iSURGE, the trusted solution for continuous information security and compliance monitoring.</p>
                             </Card.Body>
                             <Card.Body className="mt-4">
                             <Form className="row">
